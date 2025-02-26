@@ -40,7 +40,7 @@
 ```python
 !pip install gradio -q
 ```
-Перед запуском блокнота также рекомендуется сверить версии библиотек, указанных в файлк requirements.txt 
+Перед запуском блокнота также рекомендуется сверить версии библиотек, указанных в файле requirements.txt [link](https://github.com/AnnaPakir/mnist/blob/main/requirements.txt)
 
 
 
