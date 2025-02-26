@@ -5,7 +5,7 @@
 2. Проектирование и разработка программной реализации нейронной сети, состоящей из одного скрытого слоя, на основе выведенных формул. Тестирование разработанной программной реализации.[link](https://github.com/AnnaPakir/mnist/blob/main/mnist_model.ipynb)
 3. Подготовка отчета по предыдущим пунктам.
 4. Разработка кода на библиотеке Keras [link](https://github.com/AnnaPakir/mnist/blob/main/mnist_model.ipynb)
-5. Разработка приложения, с использованием библиотеки gradio.
+5. Разработка приложения, с использованием библиотеки gradio. Код приложения -[link](https://github.com/AnnaPakir/mnist/blob/main/app.py)
 
 Приложение развернуто на Hugging Face [link](https://huggingface.co/spaces/AnnaPakir/mnist)
 
