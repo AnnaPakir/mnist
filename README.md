@@ -1,10 +1,10 @@
 # Реализация метода обратного распространения ошибки для двухслойной полностью связанной нейронной сети 
 Данный проект состоит из следующих этапов:
 
-1. Вывод математических формул для вычисления градиентов функции ошибки по параметрам нейронной сети и формул коррекции весов. Используется метод обратного распространения ошибки.[link](https://github.com/AnnaPakir/mnist/blob/main/mnist_model.ipynb)
-2. Проектирование и разработка программной реализации нейронной сети, состоящей из одного скрытого слоя, на основе выведенных формул. Тестирование разработанной программной реализации.[link](https://github.com/AnnaPakir/mnist/blob/main/mnist_model.ipynb)
-3. Подготовка отчета по предыдущим пунктам.[link](https://github.com/AnnaPakir/mnist/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82.pdf)
-4. Разработка кода на библиотеке Keras [link](https://github.com/AnnaPakir/mnist/blob/main/mnist_model.ipynb)
+1. Вывод математических формул для вычисления градиентов функции ошибки по параметрам нейронной сети и формул коррекции весов. Используется метод обратного распространения ошибки. [link](https://github.com/AnnaPakir/mnist/blob/main/mnist_model.ipynb)
+2. Проектирование и разработка программной реализации нейронной сети, состоящей из одного скрытого слоя, на основе выведенных формул. Тестирование разработанной программной реализации. [link](https://github.com/AnnaPakir/mnist/blob/main/mnist_model.ipynb)
+3. Подготовка отчета по предыдущим пунктам. [link](https://github.com/AnnaPakir/mnist/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82.pdf)
+4. Разработка кода на библиотеке Keras. [link](https://github.com/AnnaPakir/mnist/blob/main/mnist_model.ipynb)
 5. Разработка приложения, с использованием библиотеки gradio. Код приложения -[link](https://github.com/AnnaPakir/mnist/blob/main/app.py)
 
 Приложение развернуто на Hugging Face [link](https://huggingface.co/spaces/AnnaPakir/mnist)
