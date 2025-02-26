@@ -44,5 +44,5 @@
 ```
 Перед запуском блокнота также рекомендуется сверить версии библиотек, указанных в файле requirements.txt [link](https://github.com/AnnaPakir/mnist/blob/main/requirements.txt)
 
-
+Для запуска приложения на локальном пространстве достаточно скачать файл с моделью[link](https://github.com/AnnaPakir/mnist/blob/main/my_model.keras) и файл приложения [link](https://github.com/AnnaPakir/mnist/blob/main/app.py).
 
