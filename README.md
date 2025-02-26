@@ -7,6 +7,8 @@
 4. Разработка такого же когда на библиотеке Keras
 5. Разработка приложения, с использованием библиотеки gradio.
 
+Приложение развернуто на Hugging Face [link](https://huggingface.co/spaces/AnnaPakir/mnist)
+
 ![plot](https://github.com/AnnaPakir/mnist/blob/main/mnist.gif)
 
 Проект сделан на попульрном наборе даных - mnist.
