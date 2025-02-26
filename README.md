@@ -24,3 +24,23 @@
 Была создана похожая модель с помощью библиотеки Keras, протестирована на случайном примере.
 
 ![plot](https://github.com/AnnaPakir/mnist/blob/main/keras.png)
+
+***
+## Воспроизведение кода
+
+Если есть желание вопроизвести блок с выводом формул, необходимо дополнительно установить библиотеку Latex 
+
+```python
+# Установим LaTeX
+!apt-get update
+!apt-get install -y texlive texlive-latex-extra texlive-fonts-recommended dvipng cm-super
+```
+Для повторения экспериментов в библиотеке gratio ее также необходимо установить.
+
+```python
+!pip install gradio -q
+```
+Перед запуском блокнота также рекомендуется сверить версии библиотек, указанных в файлк requirements.txt 
+
+
+
